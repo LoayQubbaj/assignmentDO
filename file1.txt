@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this file is sent to the develop branch
 =======
 adding this line. Done by ahmad
 >>>>>>> feature/ahmadfeature
+=======
+adding a new line by Samer
+>>>>>>> feature/samerfeature
