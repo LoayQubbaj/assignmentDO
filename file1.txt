@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 creation of file1
+=======
+this file is sent to the develop branch
+adding this line. Done by ahmad
+adding a new line by Samer
+fixing bugs on the release branch
+>>>>>>> release/release1
